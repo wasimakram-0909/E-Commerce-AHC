@@ -7,14 +7,34 @@
 
 ## How can I edit and run the project locally
 
+- Download and run 
+follow the steps
+
+```sh
+#Step 1: download the zip from git repo code section 
+
+#Step 2: unzip the folder and naviagte to E-Commerce-AHC directory
+
+#step 3: Open the project in any IDE
+
+#step 4: Install the necessary dependencies
+npm i
+
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+
+```
+
+
+- Clone and run 
 Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <https://github.com/wasimakram-0909/AHC-Development-Tasks.git>
+git clone <https://github.com/wasimakram-0909/E-Commerce-AHC.git>
 
 # Step 2: Navigate to the project directory.
-cd <AHC-Development-Tasks>
+cd <E-Commerce-AHC>
 
 # Step 3: Install the necessary dependencies.
 npm i
